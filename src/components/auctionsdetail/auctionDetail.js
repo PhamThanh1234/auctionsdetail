@@ -4,7 +4,7 @@ import Pic2 from '../../assets/images/pic2.png'
 import Pic3 from '../../assets/images/pic3.png'
 import Pic4 from '../../assets/images/pic4.png'
 
-function auctionDetails() {
+function auctionDetail() {
     return(
         <>
         <div className="container">
@@ -122,4 +122,4 @@ function auctionDetails() {
     )
 }
 
-export default auctionDetails;
+export default auctionDetail;
